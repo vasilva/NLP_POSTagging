@@ -1,3 +1,4 @@
 # Ignore model files
-models
+models/*
 .venv
+!models/BLSTM_200_64_0.1.h5
